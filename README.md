@@ -1,8 +1,12 @@
 # python-dungeon
 Script to generate Mystery dungeon.
-![01](https://github.com/thinkbell/python-dungeon/blob/master/data/result1.png)
-![02](https://github.com/thinkbell/python-dungeon/blob/master/data/result2.png)
-![03](https://github.com/thinkbell/python-dungeon/blob/master/data/result3.png)
-![04](https://github.com/thinkbell/python-dungeon/blob/master/data/result4.png)
-![05](https://github.com/thinkbell/python-dungeon/blob/master/data/result5.png)
-![06](https://github.com/thinkbell/python-dungeon/blob/master/data/result6.png)
+<img src="https://github.com/thinkbell/python-dungeon/blob/master/data/result1.png" width="320">
+
+This script has a function to find the shortest path between 2 points.
+<img src="https://github.com/thinkbell/python-dungeon/blob/master/data/result2.png" width="320">
+<img src="https://github.com/thinkbell/python-dungeon/blob/master/data/result3.png" width="320">
+
+Bigger map.
+<img src="https://github.com/thinkbell/python-dungeon/blob/master/data/result4.png" width="320">
+<img src="https://github.com/thinkbell/python-dungeon/blob/master/data/result5.png" width="320">
+<img src="https://github.com/thinkbell/python-dungeon/blob/master/data/result6.png" width="320">
