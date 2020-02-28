@@ -1,5 +1,5 @@
 # python-dungeon
-Script to generate Mystery dungeon like Shiren
+Script to generate Mystery dungeon.
 ![01](https://github.com/thinkbell/python-dungeon/blob/master/data/result1.png)
 ![02](https://github.com/thinkbell/python-dungeon/blob/master/data/result2.png)
 ![03](https://github.com/thinkbell/python-dungeon/blob/master/data/result3.png)
