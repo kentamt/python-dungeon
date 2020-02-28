@@ -1,5 +1,5 @@
 # python-dungeon
-Script to generate Mystery dungeon.
+Script to generate Mystery dungeon with numpy.
 <div align="left">
 <img src="https://github.com/thinkbell/python-dungeon/blob/master/data/result1.png" width="320">
 </div>
